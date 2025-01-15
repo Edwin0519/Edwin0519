@@ -10,6 +10,6 @@ Hi there 👋, I'm Edwin Tan Yee En
 
 📫 **How to Reach Me**:  
 - 📧 Email: edwintanyee@graduate.utm.my  
-- 🐙 GitHub: https://github.com/Edwin0519 
+- 🐙 Linkdln: https://github.com/Edwin0519 ](https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/
 
 💬 "Code is a superpower; I'm here to use it wisely!"  
