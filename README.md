@@ -2,7 +2,7 @@
 Hi there 👋, I'm Edwin Tan Yee En  
 🎯 **About Me**:  
 - 🌟 Passionate about Software development, Web development and AI.  
-- 🌱 Currently study in Bachelor of Network Security.
+- 🌱 Currently study in Bachelor in Computer Sciece (Computer Networks and Security).
 - 💡 Always excited to contribute to meaningful projects and collaborate with talented individuals.  
 
 🚀 **Skills**:  
