@@ -22,7 +22,7 @@
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
 ## 🏆 Assignments and Projects
 
@@ -56,6 +56,5 @@
 - ✉️ **Email**: [edwintanyee@graduate.utm.my](mailto:edwintanyee@graduate.utm.my)
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/)
 - 🌐 **GitHub Pages**: [Edwin Tan Yee En's GitHub Pages](https://Edwin0519.github.io)
-- 
 
 💬 "Code is a superpower; I'm here to use it wisely!"  
