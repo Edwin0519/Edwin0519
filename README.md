@@ -51,5 +51,9 @@
 📫 **How to Reach Me**:  
 - 📧 Email: edwintanyee@graduate.utm.my  
 - 🐙 Linkdln: https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/
+- 
+## 🌐 Visit me on GitHub Pages
+- [**Edwin Tan Yee En's GitHub Pages**](https://Edwin0519.github.io)
+
 
 💬 "Code is a superpower; I'm here to use it wisely!"  
