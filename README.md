@@ -1,4 +1,4 @@
-![My Picture](https://example.com/my-picture.jpg)
+![My Picture](https://github.com/Edwin0519/wallpaper/raw/main/wall.png)
 
 # 👋 Hi there, I'm Edwin Tan Yee En!
 
