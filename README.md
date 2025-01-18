@@ -56,6 +56,7 @@
 💬 "Code is a superpower; I'm here to use it wisely!"  
 
 
-- ![GitHub Icon](https://img.shields.io/badge/Edwin0519-GitHub-black?logo=github&logoColor=white&style=flat) [GitHub](https://github.com/Edwin0519)
-- ![LinkedIn Icon](https://img.shields.io/badge/Edwin_Tan_Yee_En-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat) [LinkedIn](https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/)
-
+<p align="left">
+<a href="https://linkedin.com/in/edwintanyeeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwintanyeeen" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/edwin0519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edwin0519" height="30" width="40" /></a>
+</p>
