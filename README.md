@@ -26,32 +26,23 @@
 
 ## 🏆 Assignments and Projects
 
-## 🏆 Featured Projects
-
 - [**Assignment 1 - TIS Industrial Talk 1**](https://github.com/Edwin0519/Assignment-1-TIS-Industrial-Talk-1)  
-  📚 This project involves an in-depth report and presentation on an industrial talk.  
-  _Technologies: Report Writing, Presentation Design_
+  📚 This assignment covers an industrial talk by AirAsia, exploring their digital ecosystem and career opportunities in tech roles such as software development and data analytics.
 
 - [**Assignment 2 - TIS Industrial Visit 1**](https://github.com/Edwin0519/Assignment-2-TIS-Industrial-Visit-1)  
-  🏭 A detailed analysis of an industrial visit, focusing on practical applications and insights.  
-  _Technologies: Documentation, Analysis_
+  🏭 This assignment covers a visit to UTM Digital, highlighting their digital services, infrastructure, and system development processes.
 
 - [**Assignment 3 - TIS Industrial Talk 2**](https://github.com/Edwin0519/Assignment-3-TIS-Industrial-Talk-2)  
-  📚 A follow-up report and presentation from the second industrial talk, summarizing key takeaways.  
-  _Technologies: Report Writing, Presentation Design_
+  📚 This assignment highlights an industry talk by Encik Muhammad Habibullah bin Muhammad Nizam, focusing on his entrepreneurial journey, career challenges, and essential skills for thriving in academia and the tech industry.
 
 - [**Assignment 4 - TIS Industrial Visit 2**](https://github.com/Edwin0519/Assignment-4-TIS-Industrial-Visit-2)  
-  🏭 A second industrial visit project, highlighting the impact of modern technology in industry.  
-  _Technologies: Documentation, Research_
+  🏭 This assignment covers a visit to MAGIC-X at UTM, where we explored cutting-edge immersive technologies, including VR/AR applications, and how they are transforming industries such as gaming, education, and sports. We also discussed the importance of certifications and career development in the field of immersive technology.
 
 - [**PC Assemble Lab**](https://github.com/Edwin0519/PC-Assemble-Lab)  
-  🖥️ A hands-on project where I assembled a personal computer from scratch, learning hardware components and assembly.  
-  _Technologies: Hardware Assembly, System Setup_
+  🖥️ This lab focus on a hands-on PC assembly lab, where we learnt about the cparts and methods involved in assembling a computer device. The lab provided helpful advice on hardware arrangement, fixing issues, and the role of each component to ensure the computer works.
 
 - [**Project Design Thinking**](https://github.com/Edwin0519/Project-Design-Thinking)  
-  💡 A project that utilizes design thinking principles to approach problem-solving and innovation.  
-  _Technologies: Research, Ideation, Problem Solving_
-
+  💡 In this project we are aim to solve UTM Campus traffic issues with an AI-powered system, leveraging IoT and real-time data to reduce congestion, enhance safety, and improve parking and emergency response routes.
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin0519&show_icons=true&theme=radical)  
