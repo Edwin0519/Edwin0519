@@ -63,10 +63,11 @@
   <a href="https://Edwin0519.github.io" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Edwin0519 GitHub Pages" height="30" width="40" />
   </a>
-  <a href="mailto:edwintanyee@graduate.utm.my" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="edwintanyee@graduate.utm.my" height="30" width="40" />
+  <a href="mailto:edwintanyee@graduate.utm.my" target="blank" style="margin-right: 10px;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Google_Mail_icon_%282013-2020%29.png" alt="edwintanyee@graduate.utm.my" height="30" width="40" />
   </a>
 </p>
+
 
 
 
