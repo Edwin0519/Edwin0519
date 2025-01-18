@@ -54,16 +54,20 @@
 - 🌐 **GitHub Pages**: [Edwin Tan Yee En's GitHub Pages](https://Edwin0519.github.io)
 
   <p align="left">
-  <a href="https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/" target="blank">
+  <a href="https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwintanyeeen" height="30" width="40" />
   </a> 
-  <a href="https://www.leetcode.com/Edwin_0519" target="blank">
+  <a href="https://www.leetcode.com/Edwin_0519" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edwin0519" height="30" width="40" />
   </a> 
-  <a href="https://Edwin0519.github.io" target="blank">
+  <a href="https://Edwin0519.github.io" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Edwin0519 GitHub Pages" height="30" width="40" />
   </a>
+  <a href="mailto:edwintanyee@graduate.utm.my" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="edwintanyee@graduate.utm.my" height="30" width="40" />
+  </a>
 </p>
+
 
 
 💬 "Code is a superpower; I'm here to use it wisely!"  
