@@ -52,8 +52,8 @@
 - [**Edwin Tan Yee En's GitHub Pages**](https://Edwin0519.github.io)
 
 ## 📫 How to Reach Me:
-- ✉️ **Email**: [edwintanyee@graduate.utm.my](mailto:edwintanyee@graduate.utm.my)
-- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/)
-- 🌐 **GitHub Pages**: [Edwin Tan Yee En's GitHub Pages](https://Edwin0519.github.io)
+- ![Email Icon](https://img.shields.io/badge/Email-009CFF?logo=mail&logoColor=white&style=flat) [edwintanyee@graduate.utm.my](mailto:edwintanyee@graduate.utm.my)
+- ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat) [LinkedIn Profile](https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/)
+- ![GitHub Icon](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat) [Edwin Tan Yee En's GitHub Pages](https://Edwin0519.github.io)
 
 💬 "Code is a superpower; I'm here to use it wisely!"  
