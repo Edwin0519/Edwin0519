@@ -53,9 +53,7 @@
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/)
 - 🌐 **GitHub Pages**: [Edwin Tan Yee En's GitHub Pages](https://Edwin0519.github.io)
 
-💬 "Code is a superpower; I'm here to use it wisely!"  
-
-<p align="left">
+  <p align="left">
   <a href="https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwintanyeeen" height="30" width="40" />
   </a> 
@@ -66,4 +64,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Edwin0519 GitHub Pages" height="30" width="40" />
   </a>
 </p>
+
+
+💬 "Code is a superpower; I'm here to use it wisely!"  
+
 
