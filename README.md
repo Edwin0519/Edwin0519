@@ -1,3 +1,5 @@
+![My Picture](https://example.com/my-picture.jpg)
+
 # 👋 Hi there, I'm Edwin Tan Yee En!
 
 🎓 **Student of Bachelor in Computer Sciece (Computer Networks and Security)** | 💻 **Programmer** | 🌐 **Web Developer**  
