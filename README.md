@@ -64,7 +64,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Edwin0519 GitHub Pages" height="30" width="40" />
   </a>
   <a href="mailto:edwintanyee@graduate.utm.my" target="blank" style="margin-right: 10px;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Gmail_icon_%282013-2020%29.png" alt="edwintanyee@graduate.utm.my" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat" alt="edwintanyee@graduate.utm.my" height="30" width="40" />
   </a>
 </p>
 
