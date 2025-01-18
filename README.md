@@ -54,5 +54,9 @@
 📫 **How to Reach Me**:  
 - 📧 Email: edwintanyee@graduate.utm.my  
 - 🐙 Linkdln: https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/
+<p align="left">
+<a href="https://linkedin.com/in/edwin tan yee en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin tan yee en" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/edwin_0519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edwin_0519" height="30" width="40" /></a>
+</p>
 
 💬 "Code is a superpower; I'm here to use it wisely!"  
