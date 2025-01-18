@@ -50,21 +50,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin0519&layout=compact&theme=radical)
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a> 
-  <a href="https://www.leetcode.com/Edwin_0519" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a> 
-  <a href="https://Edwin0519.github.io" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Pages" height="40" width="40" />
-  </a>
-  <a href="mailto:edwintanyee@graduate.utm.my" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat" alt="Gmail" height="40" width="40" />
-  </a>
-</p>
-
 ## 📫 How to Reach Me:
 - ✉️ **Email**: [edwintanyee@graduate.utm.my](mailto:edwintanyee@graduate.utm.my)
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/)
