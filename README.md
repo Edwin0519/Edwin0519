@@ -46,12 +46,6 @@
   💡 In this project we are aim to solve UTM Campus traffic issues with an AI-powered system, leveraging IoT and real-time data to reduce congestion, enhance safety, and improve parking and emergency response routes.
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin0519&show_icons=true&theme=radical)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edwin0519&theme=radical)
-
-## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin0519&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin0519&layout=compact&theme=radical)
@@ -77,6 +71,7 @@
   </a>
 </p>
 
-💬 "Code is a superpower; I'm here to use it wisely!"  
+💬 *"Code is a superpower; I'm here to use it wisely!"*
+
 
 
