@@ -2,11 +2,10 @@
 
 # 👋 Hi there, I'm Edwin Tan Yee En!
 
-🎓 **Student of Bachelor in Computer Sciece (Computer Networks and Security)** | 💻 **Programmer** | 🌐 **Web Developer**  
-
 ## 🚀 About Me
+- 🎓 **Student of Bachelor in Computer Sciece (Computer Networks and Security)** 
 - 🔐 Interested in **Network Security**   
-- 💻 Skilled in **Programming**, **Web Development**, and **System design**.  
+- 💻 Skilled in **Programming**, 🌐**Web Development**, and **System design**.  
 - 🌱 Currently learning **C++** and **html**.  
 - 🌟 Passionate to get involved in open-source projects and learn from the developer community.
 
