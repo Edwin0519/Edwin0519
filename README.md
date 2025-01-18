@@ -54,3 +54,8 @@
 - 🌐 **GitHub Pages**: [Edwin Tan Yee En's GitHub Pages](https://Edwin0519.github.io)
 
 💬 "Code is a superpower; I'm here to use it wisely!"  
+
+
+- ![GitHub Icon](https://img.shields.io/badge/Edwin0519-GitHub-black?logo=github&logoColor=white&style=flat) [GitHub](https://github.com/Edwin0519)
+- ![LinkedIn Icon](https://img.shields.io/badge/Edwin_Tan_Yee_En-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat) [LinkedIn](https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/)
+
