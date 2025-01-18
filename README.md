@@ -48,10 +48,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin0519&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin0519&layout=compact&theme=radical)
 
-## 🌐 Find me on GitHub Pages
-- [**Edwin Tan Yee En's GitHub Pages**](https://Edwin0519.github.io)
-
-## 📫 How to Reach Me:
 ## 📫 How to Reach Me:
 - ✉️ **Email**: [edwintanyee@graduate.utm.my](mailto:edwintanyee@graduate.utm.my)
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/edwin-yee-en-tan-109a62343/)
