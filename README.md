@@ -24,19 +24,33 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
+## 🏆 Assignments and Projects
+
 ## 🏆 Featured Projects
 
-- [**Network Security Dashboard**](#)  
-  🔐 A dashboard for monitoring and managing network security.  
-  _Technologies: Python, Flask, SQL_  
+- [**Assignment 1 - TIS Industrial Talk 1**](https://github.com/Edwin0519/Assignment-1-TIS-Industrial-Talk-1)  
+  📚 This project involves an in-depth report and presentation on an industrial talk.  
+  _Technologies: Report Writing, Presentation Design_
 
-- [**Portfolio Website**](#)  
-  🌐 A responsive personal portfolio to showcase my projects and skills.  
-  _Technologies: HTML, CSS, JavaScript, React_  
+- [**Assignment 2 - TIS Industrial Visit 1**](https://github.com/Edwin0519/Assignment-2-TIS-Industrial-Visit-1)  
+  🏭 A detailed analysis of an industrial visit, focusing on practical applications and insights.  
+  _Technologies: Documentation, Analysis_
 
-- [**Collaborative Web App**](#)  
-  🛠️ A tool to enhance teamwork by organizing tasks efficiently.  
-  _Technologies: Node.js, Express, MongoDB_
+- [**Assignment 3 - TIS Industrial Talk 2**](https://github.com/Edwin0519/Assignment-3-TIS-Industrial-Talk-2)  
+  📚 A follow-up report and presentation from the second industrial talk, summarizing key takeaways.  
+  _Technologies: Report Writing, Presentation Design_
+
+- [**Assignment 4 - TIS Industrial Visit 2**](https://github.com/Edwin0519/Assignment-4-TIS-Industrial-Visit-2)  
+  🏭 A second industrial visit project, highlighting the impact of modern technology in industry.  
+  _Technologies: Documentation, Research_
+
+- [**PC Assemble Lab**](https://github.com/Edwin0519/PC-Assemble-Lab)  
+  🖥️ A hands-on project where I assembled a personal computer from scratch, learning hardware components and assembly.  
+  _Technologies: Hardware Assembly, System Setup_
+
+- [**Project Design Thinking**](https://github.com/Edwin0519/Project-Design-Thinking)  
+  💡 A project that utilizes design thinking principles to approach problem-solving and innovation.  
+  _Technologies: Research, Ideation, Problem Solving_
 
 ## 📊 GitHub Stats
 
