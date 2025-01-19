@@ -39,7 +39,7 @@
 - [**Assignment 4 - TIS Industrial Visit 2**](https://github.com/Edwin0519/Assignment-4-TIS-Industrial-Visit-2)  
   🏭 This assignment covers a visit to MAGIC-X at UTM, where we explored cutting-edge immersive technologies, including VR/AR applications, and how they are transforming industries such as gaming, education, and sports. We also discussed the importance of certifications and career development in the field of immersive technology.
 
-- [**PC Assemble Lab**](https://github.com/Edwin0519/PC-Assemble-Lab)  
+- [**PC Assemble Lab**](https://github.com/Edwin0519/PC-Assemble-Lab-)  
   🖥️ This lab focus on a hands-on PC assembly lab, where we learnt about the cparts and methods involved in assembling a computer device. The lab provided helpful advice on hardware arrangement, fixing issues, and the role of each component to ensure the computer works.
 
 - [**Project Design Thinking**](https://github.com/Edwin0519/Project-Design-Thinking)  
